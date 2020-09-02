@@ -2,6 +2,10 @@
 
 ![jhhj424's github stats](https://github-readme-stats.vercel.app/api?username=jhhj424&show_icons=true)
 ![jhhj424's top languages card](https://github-readme-stats.vercel.app/api/top-langs/?username=jhhj424&layout=compact&hide=Jupyter%20Notebook)
+<br>
+### I am using Java as my primary language and I am studying to become a famous backend developer.
+### Computer science knowledge exploration and algorithm solving are always striving.
+### Recently, I am studying with interest in code refactoring and test code.
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!--
 **jhhj424/jhhj424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
