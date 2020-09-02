@@ -5,7 +5,7 @@
 <br>
 ### I am using Java as my primary language and I am studying to become a famous backend developer.
 ### Computer science knowledge exploration and algorithm solving are always striving.
-### Recently, I am studying with interest in code refactoring and test code.
+### Recently, I am interested in and learning about code refactoring and test code.
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!--
 **jhhj424/jhhj424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
