@@ -1,12 +1,12 @@
 ### Hi there 👋
+### This is Ji-ho Shin, a developer who constantly develops to become the me of tomorrow who has grown more than today.
+"오늘보다 더 성장한 내일의 내가되기 위해" 끊임없이 발전하는 개발자 신지호입니다.
 
 ![jhhj424's github stats](https://github-readme-stats.vercel.app/api?username=jhhj424&show_icons=true)
 ![jhhj424's top languages card](https://github-readme-stats.vercel.app/api/top-langs/?username=jhhj424&layout=compact&hide=Jupyter%20Notebook)
 <br>
 ### I am using Java as my primary language and I am studying to become a famous backend developer.
 Java를 기본 언어로 사용하고 있으며 유명한 백엔드 개발자가되기 위해 공부하고 있습니다.
-
-
 ### Computer science knowledge exploration and algorithm solving are always striving.
 컴퓨터 과학 지식 탐구와 알고리즘 해결은 항상 노력하고 있습니다.
 ### Recently, I am interested in and learning about code refactoring and test code.
