@@ -1,6 +1,6 @@
 ### Hi there 👋
-### This is Ji-ho Shin, a developer who constantly develops to become the me of tomorrow who has grown more than today.
-"오늘보다 더 성장한 내일의 내가되기 위해" 끊임없이 발전하는 개발자 신지호입니다.
+### This is Jiho Shin, a developer who constantly develops to grow more every day.
+'매일 더 성장하기 위해' 끊임없이 발전하는 개발자 신지호입니다.
 
 ![jhhj424's github stats](https://github-readme-stats.vercel.app/api?username=jhhj424&show_icons=true)
 ![jhhj424's top languages card](https://github-readme-stats.vercel.app/api/top-langs/?username=jhhj424&layout=compact&hide=Jupyter%20Notebook)
