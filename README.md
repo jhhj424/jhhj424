@@ -11,6 +11,17 @@ Java를 주 언어로 사용하고 있으며 훌륭한 백엔드 개발자가되
 컴퓨터 과학 지식 탐구와 알고리즘 문제풀이는 항상 노력하고 있습니다.
 ### Recently, I am interested in and learning about code refactoring and test code.
 최근에는 코드 리팩토링 및 테스트 코드에 관심이 있고 이에 대해 학습 중입니다.
+
+---
+😀소개 사이트 - https://dev-shinjiho.site/
+---
+
+📖Blog - [개발하는 지토](https://jhhj424.tistory.com/)
+---
+
+📋Notion - [RESUME](https://www.notion.so/RESUME-7b75f185935b407f84b5f35bc21a03ac)
+---
+
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!--
 **jhhj424/jhhj424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
