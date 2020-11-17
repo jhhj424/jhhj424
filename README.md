@@ -12,7 +12,7 @@ Java를 주 언어로 사용하고 있으며 훌륭한 백엔드 개발자가되
 ### Recently, I am interested in code refactoring and test code.
 최근에는 코드 리팩토링 및 테스트 코드에 관심이 있습니다.
 ### I'm also interested in AWS infrastructure, Docker and Spring Boot + JPA and I'm learning a bit.
-또한 AWS 인프라, 도커 및 Spring Boot + JPA 에 흥미가 있고 조금씩 학습 중입니다.
+또한 AWS 인프라, 도커 및 Spring Boot + JPA 에 흥미가 있고 학습 중입니다.
 
 
 ---
