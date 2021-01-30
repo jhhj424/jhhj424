@@ -22,7 +22,7 @@ Java를 주 언어로 사용하고 있으며 훌륭한 백엔드 개발자가되
 📖Blog - [개발하는 지토](https://jhhj424.tistory.com/)
 ---
 
-📋Notion - [RESUME](https://www.notion.so/RESUME-7b75f185935b407f84b5f35bc21a03ac)
+<!-- 📋Notion - [RESUME](https://www.notion.so/RESUME-7b75f185935b407f84b5f35bc21a03ac) -->
 ---
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
