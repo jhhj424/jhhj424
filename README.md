@@ -4,9 +4,8 @@
 
 ![jhhj424's github stats](https://github-readme-stats.vercel.app/api?username=jhhj424&show_icons=true)
 ![jhhj424's top languages card](https://github-readme-stats.vercel.app/api/top-langs/?username=jhhj424&layout=compact&hide=Jupyter%20Notebook)
-<br>
-
 ---
+
 
 > ### 저는 
 
@@ -15,6 +14,8 @@
 **철저한 테스트 코드**를 바탕으로 코드를 작성하려고 노력합니다.
 
 개발자 뿐만 아닌 **모든사람이 이해할 수 있는 코드**를 작성하기 위해 항상 고민합니다.
+
+<br>
 
 > ### 이런 팀에서 성장하고 싶습니다.
 
