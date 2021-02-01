@@ -5,14 +5,24 @@
 ![jhhj424's github stats](https://github-readme-stats.vercel.app/api?username=jhhj424&show_icons=true)
 ![jhhj424's top languages card](https://github-readme-stats.vercel.app/api/top-langs/?username=jhhj424&layout=compact&hide=Jupyter%20Notebook)
 <br>
-### I'm using Java as my primary language and I'm studying to become a great backend developer.
+
 Java를 주 언어로 사용하고 있으며 훌륭한 백엔드 개발자가되기 위해 공부하고 있습니다.
-### Computer science knowledge exploration and algorithm solving are always striving.
-컴퓨터 과학 지식 탐구와 알고리즘 문제풀이는 항상 노력하고 있습니다.
-### Recently, I am interested in code refactoring and test code.
-최근에는 코드 리팩토링 및 테스트 코드에 관심이 있습니다.
-### I'm also interested in AWS infrastructure, Docker and Spring Boot + JPA and I'm learning a bit.
-또한 AWS 인프라, 도커 및 Spring Boot + JPA 에 흥미가 있고 학습 중입니다.
+
+> ## 저는 이런 사람입니다.
+ - 매일 매일 작은 한걸음을 실천하고 있습니다.
+
+ - 철저한 테스트 코드를 바탕으로 코드를 작성하려고 노력합니다.
+
+ - 개발자 뿐만 아닌 모든사람이 이해할 수 있는 코드를 작성하기 위해 항상 고민합니다.
+
+
+
+> ## 저는 이런 팀에서 성장하고 싶습니다.
+ - 커뮤니케이션을 중요시 하는 팀에서 고민을 나누고 소통하고 싶습니다.
+
+ - 당연하게 코드 리뷰, 피드백을 주고 받고 이를 바탕으로 업무를 진행 할 수 있는 팀에 합류 하고 싶습니다.
+
+ - 함께 자랄 수 있는 팀의 일원이 되고 싶습니다.
 
 
 ---
