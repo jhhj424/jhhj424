@@ -29,8 +29,6 @@
 
 <br>
 
-### ↓↓ 저에 대해 더 알고 싶다면 Click 해주세요 😁 ↓↓
-
 ---
 😀소개 사이트 - https://dev-shinjiho.site/
 ---
