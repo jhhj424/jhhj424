@@ -25,13 +25,12 @@
 
 - **함께 자랄 수 있는 팀의 일원**이 되고 싶습니다. ( * 함께 자라다 : 협력하고 학습해서 성장하다. ) -->
 
-<br>
-
----
-😀소개 사이트 - https://dev-shinjiho.site/
 ---
 
-📖Blog - [개발하는 지토](https://jhhj424.tistory.com/)
+### 😀 Profile_[백엔드 개발자 신지호](https://dev-shinjiho.netlify.app/)
+
+### 📖 Blog_[개발하는 지토](https://jhhj424.tistory.com/)
+
 ---
 
 <!-- 📋Notion - [RESUME](https://www.notion.so/RESUME-7b75f185935b407f84b5f35bc21a03ac) -->
