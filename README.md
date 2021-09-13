@@ -31,10 +31,7 @@
 
 ### 📖 Blog_[개발하는 지토](https://jhhj424.tistory.com/)
 
----
-
 <!-- 📋Notion - [RESUME](https://www.notion.so/RESUME-7b75f185935b407f84b5f35bc21a03ac) -->
----
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!--
