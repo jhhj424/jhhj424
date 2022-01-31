@@ -1,13 +1,14 @@
-### Hi there 👋
-<!-- ### This is Jiho Shin, a developer who constantly strives to 'grow more every day'. -->
-#### '매일 더 성장하기 위해' 달리고 있는 개발자 신지호입니다.
 
 ![jhhj424's github stats](https://github-readme-stats.vercel.app/api?username=jhhj424&show_icons=true)
 ![jhhj424's top languages card](https://github-readme-stats.vercel.app/api/top-langs/?username=jhhj424&layout=compact&hide=Jupyter%20Notebook)
+
+### Hi there 👋
+<!-- ### This is Jiho Shin, a developer who constantly strives to 'grow more every day'. -->
+### 뷰티플랫폼 서비스에서 백엔드 개발 및 운영을 하고있는 개발자 신지호 입니다 :)
+
 ---
 
-
-### ✅ 저는 이런 사람입니다.
+#### ✅ 저는 이런 사람입니다.
 
 - 매일 매일 **작은 한걸음을 실천**하고 있습니다.
 
@@ -29,7 +30,7 @@
 
 <!-- ### 😀 Profile_[백엔드 개발자 신지호](https://dev-shinjiho.netlify.app/) -->
 
-### 📖 Blog_[개발하는 지토](https://jhhj424.tistory.com/)
+#### 📖 Blog_[개발하는 지토](https://jhhj424.tistory.com/)
 
 <!-- 📋Notion - [RESUME](https://www.notion.so/RESUME-7b75f185935b407f84b5f35bc21a03ac) -->
 
