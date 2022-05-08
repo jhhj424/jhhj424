@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 <!-- ### This is Jiho Shin, a developer who constantly strives to 'grow more every day'. -->
-### 뷰티플랫폼 서비스에서 백엔드 개발 및 운영을 하고있는 개발자 신지호 입니다 :)
+### 뷰티 추천/예약 서비스에서 서버 API / Batch 개발 및 운영을 하고있는 백엔드 개발자 신지호 입니다 :)
 
 ---
 
